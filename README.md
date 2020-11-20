@@ -9,10 +9,10 @@ make requests in command lines, produce sorted results and graphs
 ## Requirements:
  * python3
  * python modules to be installed
-  *  requests
-  *  wget
-  *  pdfplumber
-  *  matplotlib
+   * requests
+   * wget
+   * pdfplumber
+   * matplotlib
 
 ## Installation:
 You need to add the directory in our PYTHONPATH variable
